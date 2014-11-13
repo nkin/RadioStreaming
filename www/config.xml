@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns     = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.BOUSSANANE.Radio.player"
+        version   = "1.0.0">
+
+  <name>Moroccan Streaming</name>
+<description> Moroccan Streaming is a basic Radio player that allows you to listen  the Maroccan  radio stations. 
+
+The list of radio stations available on this application:
+ 
+Radio plus Agadir , Chada FM , Radio Yabiladi , Radio 2M , Radio Mars , Atlantic Radio, Med Radio , Radio Medi 1 , Hit Radio , Cap Radio , Luxe Radio , Radio Al Amazighia , Radio Aswat , Radio Assadisa , 
+Radio Medina , Izlanzik Radio , Idaa Al Watania , Radio Chaine Inter , Radio Maroc Music , Radio Sawa , Radio Anwarock , Radio Plus Marrakech , Radio Itma , Ness Radio , Radio Monte Carlo Doualiya ,
+Aktab Radio , Radio Only Rai , Rif Melody Radio , Radio Planet House , Radio Soleil , Radio Air du Mboa , Mfm Radio , Radio Habayiib , Radio Star Maroc , Radio Marocfan , Hit Radio Buzz , 
+Hit Radio MGHARBA , Hit Radio RnB , Hit Radio Dancefloor 
+
+</description>
+<author email="ahmed.boussanane@gmail.com">Ahmed BOUSSANANE</author>
+
+
+   <access origin="*" />
+
+   <!-- Icons -->
+<icon src="icon.png" width="64" height="64" gap:role="default" />
+
+<!-- Splash Screens 
+<gap:splash src="splash.png" />-->
+</widget>
